@@ -1,3 +1,9 @@
+# My Everything Claude Code
+
+> 🍴 **Fork Notice**: This is a personal fork of [everything-claude-code](https://github.com/affaan-m/everything-claude-code). All intellectual property rights belong to the original authors. See [CHANGELOG-CUSTOM.md](CHANGELOG-CUSTOM.md) for customizations.
+
+---
+
 **Language:** English | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md) | [Türkçe](docs/tr/README.md)
 
 # Everything Claude Code
